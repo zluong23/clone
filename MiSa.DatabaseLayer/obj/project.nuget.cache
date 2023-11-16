@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "YAmIe+56iO21vDmOm/VEbqNVdpBmQC4BcEU5GRH1u1PdZBJ8b/jSBysTmDqFvfC9GtdUaoRBICrOvakd7b+gDA==",
+  "success": true,
+  "projectFilePath": "C:\\MISA.MF1793.Api\\MiSa.DatabaseLayer\\MiSa.DatabaseLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\dapper\\2.1.21\\dapper.2.1.21.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\mysqlconnector\\2.3.0\\mysqlconnector.2.3.0.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

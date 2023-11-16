@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NRR+L8VOfgLdcH33/DeqsuNCwB+at8LE0PBZTHJFrUUlIUM49TDckA2fUNM1kXQUZLiduxIJbBcYSFPlUQ2rIw==",
+  "success": true,
+  "projectFilePath": "C:\\MISA.MF1793.Api\\Misa.Api.Luongpv\\Misa.InfrastuctureLuongpv.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\dapper\\2.1.21\\dapper.2.1.21.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\mysqlconnector\\2.2.7\\mysqlconnector.2.2.7.nupkg.sha512"
+  ],
+  "logs": []
+}

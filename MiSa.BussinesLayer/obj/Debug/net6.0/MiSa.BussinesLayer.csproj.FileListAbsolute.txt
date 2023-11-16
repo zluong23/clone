@@ -1,0 +1,17 @@
+C:\MISA.MF1793.Api\MiSa.BussinesLayer\bin\Debug\net6.0\MiSa.BussinesLayer.deps.json
+C:\MISA.MF1793.Api\MiSa.BussinesLayer\bin\Debug\net6.0\MiSa.BussinesLayer.dll
+C:\MISA.MF1793.Api\MiSa.BussinesLayer\bin\Debug\net6.0\MiSa.BussinesLayer.pdb
+C:\MISA.MF1793.Api\MiSa.BussinesLayer\bin\Debug\net6.0\MiSa.DatabaseLayer.dll
+C:\MISA.MF1793.Api\MiSa.BussinesLayer\bin\Debug\net6.0\MiSa.Library.dll
+C:\MISA.MF1793.Api\MiSa.BussinesLayer\bin\Debug\net6.0\MiSa.DatabaseLayer.pdb
+C:\MISA.MF1793.Api\MiSa.BussinesLayer\bin\Debug\net6.0\MiSa.Library.pdb
+C:\MISA.MF1793.Api\MiSa.BussinesLayer\obj\Debug\net6.0\MiSa.BussinesLayer.csproj.AssemblyReference.cache
+C:\MISA.MF1793.Api\MiSa.BussinesLayer\obj\Debug\net6.0\MiSa.BussinesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\MISA.MF1793.Api\MiSa.BussinesLayer\obj\Debug\net6.0\MiSa.BussinesLayer.AssemblyInfoInputs.cache
+C:\MISA.MF1793.Api\MiSa.BussinesLayer\obj\Debug\net6.0\MiSa.BussinesLayer.AssemblyInfo.cs
+C:\MISA.MF1793.Api\MiSa.BussinesLayer\obj\Debug\net6.0\MiSa.BussinesLayer.csproj.CoreCompileInputs.cache
+C:\MISA.MF1793.Api\MiSa.BussinesLayer\obj\Debug\net6.0\MiSa.BussinesLayer.csproj.CopyComplete
+C:\MISA.MF1793.Api\MiSa.BussinesLayer\obj\Debug\net6.0\MiSa.BussinesLayer.dll
+C:\MISA.MF1793.Api\MiSa.BussinesLayer\obj\Debug\net6.0\refint\MiSa.BussinesLayer.dll
+C:\MISA.MF1793.Api\MiSa.BussinesLayer\obj\Debug\net6.0\MiSa.BussinesLayer.pdb
+C:\MISA.MF1793.Api\MiSa.BussinesLayer\obj\Debug\net6.0\ref\MiSa.BussinesLayer.dll

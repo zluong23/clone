@@ -1,0 +1,11 @@
+C:\MISA.MF1793.Api\MiSa.Library\bin\Debug\net6.0\MiSa.Library.deps.json
+C:\MISA.MF1793.Api\MiSa.Library\bin\Debug\net6.0\MiSa.Library.dll
+C:\MISA.MF1793.Api\MiSa.Library\bin\Debug\net6.0\MiSa.Library.pdb
+C:\MISA.MF1793.Api\MiSa.Library\obj\Debug\net6.0\MiSa.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\MISA.MF1793.Api\MiSa.Library\obj\Debug\net6.0\MiSa.Library.AssemblyInfoInputs.cache
+C:\MISA.MF1793.Api\MiSa.Library\obj\Debug\net6.0\MiSa.Library.AssemblyInfo.cs
+C:\MISA.MF1793.Api\MiSa.Library\obj\Debug\net6.0\MiSa.Library.csproj.CoreCompileInputs.cache
+C:\MISA.MF1793.Api\MiSa.Library\obj\Debug\net6.0\MiSa.Library.dll
+C:\MISA.MF1793.Api\MiSa.Library\obj\Debug\net6.0\refint\MiSa.Library.dll
+C:\MISA.MF1793.Api\MiSa.Library\obj\Debug\net6.0\MiSa.Library.pdb
+C:\MISA.MF1793.Api\MiSa.Library\obj\Debug\net6.0\ref\MiSa.Library.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MISA.MF1793.Api.props" />
+</Project>

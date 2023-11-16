@@ -1,0 +1,15 @@
+C:\MISA.MF1793.Api\MiSa.DatabaseLayer\bin\Debug\net6.0\MiSa.DatabaseLayer.deps.json
+C:\MISA.MF1793.Api\MiSa.DatabaseLayer\bin\Debug\net6.0\MiSa.DatabaseLayer.dll
+C:\MISA.MF1793.Api\MiSa.DatabaseLayer\bin\Debug\net6.0\MiSa.DatabaseLayer.pdb
+C:\MISA.MF1793.Api\MiSa.DatabaseLayer\bin\Debug\net6.0\MiSa.Library.dll
+C:\MISA.MF1793.Api\MiSa.DatabaseLayer\bin\Debug\net6.0\MiSa.Library.pdb
+C:\MISA.MF1793.Api\MiSa.DatabaseLayer\obj\Debug\net6.0\MiSa.DatabaseLayer.csproj.AssemblyReference.cache
+C:\MISA.MF1793.Api\MiSa.DatabaseLayer\obj\Debug\net6.0\MiSa.DatabaseLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\MISA.MF1793.Api\MiSa.DatabaseLayer\obj\Debug\net6.0\MiSa.DatabaseLayer.AssemblyInfoInputs.cache
+C:\MISA.MF1793.Api\MiSa.DatabaseLayer\obj\Debug\net6.0\MiSa.DatabaseLayer.AssemblyInfo.cs
+C:\MISA.MF1793.Api\MiSa.DatabaseLayer\obj\Debug\net6.0\MiSa.DatabaseLayer.csproj.CoreCompileInputs.cache
+C:\MISA.MF1793.Api\MiSa.DatabaseLayer\obj\Debug\net6.0\MiSa.DatabaseLayer.csproj.CopyComplete
+C:\MISA.MF1793.Api\MiSa.DatabaseLayer\obj\Debug\net6.0\MiSa.DatabaseLayer.dll
+C:\MISA.MF1793.Api\MiSa.DatabaseLayer\obj\Debug\net6.0\refint\MiSa.DatabaseLayer.dll
+C:\MISA.MF1793.Api\MiSa.DatabaseLayer\obj\Debug\net6.0\MiSa.DatabaseLayer.pdb
+C:\MISA.MF1793.Api\MiSa.DatabaseLayer\obj\Debug\net6.0\ref\MiSa.DatabaseLayer.dll

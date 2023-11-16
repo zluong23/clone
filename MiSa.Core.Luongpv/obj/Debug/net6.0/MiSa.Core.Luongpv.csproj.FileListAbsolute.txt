@@ -1,0 +1,11 @@
+C:\MISA.MF1793.Api\MiSa.Core.Luongpv\bin\Debug\net6.0\MiSa.Core.Luongpv.deps.json
+C:\MISA.MF1793.Api\MiSa.Core.Luongpv\bin\Debug\net6.0\MiSa.Core.Luongpv.dll
+C:\MISA.MF1793.Api\MiSa.Core.Luongpv\bin\Debug\net6.0\MiSa.Core.Luongpv.pdb
+C:\MISA.MF1793.Api\MiSa.Core.Luongpv\obj\Debug\net6.0\MiSa.Core.Luongpv.GeneratedMSBuildEditorConfig.editorconfig
+C:\MISA.MF1793.Api\MiSa.Core.Luongpv\obj\Debug\net6.0\MiSa.Core.Luongpv.AssemblyInfoInputs.cache
+C:\MISA.MF1793.Api\MiSa.Core.Luongpv\obj\Debug\net6.0\MiSa.Core.Luongpv.AssemblyInfo.cs
+C:\MISA.MF1793.Api\MiSa.Core.Luongpv\obj\Debug\net6.0\MiSa.Core.Luongpv.csproj.CoreCompileInputs.cache
+C:\MISA.MF1793.Api\MiSa.Core.Luongpv\obj\Debug\net6.0\MiSa.Core.Luongpv.dll
+C:\MISA.MF1793.Api\MiSa.Core.Luongpv\obj\Debug\net6.0\refint\MiSa.Core.Luongpv.dll
+C:\MISA.MF1793.Api\MiSa.Core.Luongpv\obj\Debug\net6.0\MiSa.Core.Luongpv.pdb
+C:\MISA.MF1793.Api\MiSa.Core.Luongpv\obj\Debug\net6.0\ref\MiSa.Core.Luongpv.dll
